@@ -1,0 +1,4 @@
+fastapi/
+.idea/
+__pycache__
+test.db
